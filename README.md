@@ -3,8 +3,9 @@
 
 ## Deployment
 
-To deploy this project run
+1. To install require packages 
 
 ```bash
   pip install -r requirements.txt
 ```
+### 2. Replace your own OpenAI, Pinecone API Key and Pinecone environment
