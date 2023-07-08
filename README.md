@@ -3,9 +3,15 @@
 
 ## Deployment
 
-1. To install require packages 
+1. Clone Repository 
+
+```bash
+  git clone https://github.com/farukalampro/ai-chatbot-using-Langchain-Pinecone.git
+```
+
+2. To install require packages 
 
 ```bash
   pip install -r requirements.txt
 ```
-#### 2. Replace your own OpenAI, Pinecone API Key and Pinecone environment
+#### 3. Replace your own OpenAI, Pinecone API Key and Pinecone environment
