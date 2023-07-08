@@ -8,4 +8,4 @@
 ```bash
   pip install -r requirements.txt
 ```
-### 2. Replace your own OpenAI, Pinecone API Key and Pinecone environment
+#### 2. Replace your own OpenAI, Pinecone API Key and Pinecone environment
