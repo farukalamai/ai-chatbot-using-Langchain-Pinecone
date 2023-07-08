@@ -8,6 +8,21 @@
 ```bash
   git clone https://github.com/farukalampro/ai-chatbot-using-Langchain-Pinecone.git
 ```
+```bash
+  cd ai-chatbot-using-Langchain-Pinecone
+```
+2. Create Virtual Environment
+```bash
+  python -m venv env
+```
+ - For Windows:
+```bash
+  .\env\Scripts\activate
+```
+ - For macOS/Linux:
+```bash
+  source env/bin/activate
+```
 
 2. To install require packages 
 
