@@ -24,9 +24,17 @@
   source env/bin/activate
 ```
 
-2. To install require packages 
+3. To install require packages 
 
 ```bash
   pip install -r requirements.txt
 ```
-#### 3. Replace your own OpenAI, Pinecone API Key and Pinecone environment
+4. Replace your own OpenAI, Pinecone API Key and Pinecone environment
+ - [OpenAI API Key](https://platform.openai.com)
+ - [Pinecone](app.pinecone.io)
+ - [Pinecone environment](app.pinecone.io)
+
+5. Run the web app
+```bash
+  streamlit run main.py
+```
