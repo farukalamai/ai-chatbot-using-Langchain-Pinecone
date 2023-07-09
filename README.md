@@ -32,9 +32,8 @@
 4. Replace your own OpenAI, Pinecone API Key and Pinecone environment in indexing.py, main.py & utils.py
  - [OpenAI API Key](https://platform.openai.com)
  - [Pinecone](app.pinecone.io)
-   - ksfjl
+   - When you are creating the pinecone index make sure, **Dimensions of the index is 384**
  
-
 5. Run the web app
 ```bash
   streamlit run main.py
