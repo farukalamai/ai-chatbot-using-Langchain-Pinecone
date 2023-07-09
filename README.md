@@ -29,7 +29,7 @@
 ```bash
   pip install -r requirements.txt
 ```
-4. Replace your own OpenAI, Pinecone API Key and Pinecone environment
+4. Replace your own OpenAI, Pinecone API Key and Pinecone environment in indexing.py, main.py & utils.py
  - [OpenAI API Key](https://platform.openai.com)
  - [Pinecone](app.pinecone.io)
  - [Pinecone environment](app.pinecone.io)
