@@ -32,7 +32,7 @@
 4. Replace your own OpenAI, Pinecone API Key and Pinecone environment in indexing.py, main.py & utils.py
  - [OpenAI API Key](https://platform.openai.com)
  - [Pinecone](app.pinecone.io)
- - - ksfjl
+   - ksfjl
  
 
 5. Run the web app
