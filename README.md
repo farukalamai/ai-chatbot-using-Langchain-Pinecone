@@ -3,7 +3,7 @@
 
 ## Deployment
 
-1. Clone Repository 
+#### 1. Clone Repository 
 
 ```bash
   git clone https://github.com/farukalampro/ai-chatbot-using-Langchain-Pinecone.git
