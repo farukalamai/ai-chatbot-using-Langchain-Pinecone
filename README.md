@@ -39,7 +39,7 @@
    - **index_name = "langchain-chatbot"**
    - **Dimensions of the index is 384**
  
-#### 6. Run the web app
+#### 7. Run the web app
 ```bash
   streamlit run main.py
 ```
