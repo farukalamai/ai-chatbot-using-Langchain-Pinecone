@@ -34,7 +34,10 @@
 #### 5. Replace your own OpenAI, Pinecone API Key and Pinecone environment in indexing.py, main.py & utils.py
  - [OpenAI API Key](https://platform.openai.com)
  - [Pinecone](app.pinecone.io)
-   - When you are creating the pinecone index make sure, **Dimensions of the index is 384**
+
+#### 6. When you are creating the pinecone index make sure,
+   - **index_name = "langchain-chatbot"**
+   - **Dimensions of the index is 384**
  
 #### 6. Run the web app
 ```bash
